@@ -11,4 +11,4 @@ WSL (Windows subroutine for Linux) is capable of interfacing with the IBM4 but r
   3. Plug in the IBM4 and run ``py -m com2tty`` through powershell / command prompt.
   4. Attach the IBM4 COM port
 
-The code should then run as normal through WSL  
+You will need to clone this repository not the original as there is some changes to the ``IBM4_Lib.py`` file 
